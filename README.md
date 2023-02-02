@@ -1,8 +1,8 @@
 # ilb-data-challenge-2022
-Very quick sketch of the code used for Institut Louis Bachelier Data Chalenge 2022. 
+Very quick sketch of the code used for [Institut Louis Bachelier Data Chalenge 2022](https://challengedata.ens.fr/participants/challenges/68/). 
 
 ## Content of this repo
-This repo contains the following notebooks
+This repo contains the following notebooks:
 
 ### `exploration.ipynb`
 The notebook I used for EDA, visualizing the target variable, missing values, showing a few plots.
